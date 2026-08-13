@@ -8,7 +8,7 @@ int main() {
     int myDeposit;
     int i;
 
-    cout << "-------| Welcome to the BasicATM program |-------!" << endl;
+    cout << "-------| Welcome to the BasicATM program |-------" << endl;
 
     do
     {
